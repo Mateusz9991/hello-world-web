@@ -3,7 +3,7 @@ krotki opis projektu
 
 
 
-szybka instruckaj instalacji 
+szybka instrukcja instalacji 
 
 
 
